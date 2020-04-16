@@ -1,0 +1,50 @@
+C:\Users\Alizade\source\repos\Order System\Order System\obj\Debug\Order System.csprojAssemblyReference.cache
+C:\Users\Alizade\source\repos\Order System\Order System\obj\Debug\Order_System.Form1.resources
+C:\Users\Alizade\source\repos\Order System\Order System\obj\Debug\Order_System.Properties.Resources.resources
+C:\Users\Alizade\source\repos\Order System\Order System\obj\Debug\Order System.csproj.GenerateResource.cache
+C:\Users\Alizade\source\repos\Order System\Order System\obj\Debug\Order System.csproj.CoreCompileInputs.cache
+C:\Users\Alizade\source\repos\Order System\Order System\bin\Debug\Order System.exe.config
+C:\Users\Alizade\source\repos\Order System\Order System\bin\Debug\Order System.exe
+C:\Users\Alizade\source\repos\Order System\Order System\bin\Debug\Order System.pdb
+C:\Users\Alizade\source\repos\Order System\Order System\obj\Debug\Order System.exe
+C:\Users\Alizade\source\repos\Order System\Order System\obj\Debug\Order System.pdb
+C:\Users\mehme\Desktop\Order System\Order System\bin\Debug\Order System.exe.config
+C:\Users\mehme\Desktop\Order System\Order System\bin\Debug\Order System.exe
+C:\Users\mehme\Desktop\Order System\Order System\bin\Debug\Order System.pdb
+C:\Users\mehme\Desktop\Order System\Order System\obj\Debug\Order System.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\Order System\Order System\obj\Debug\Order_System.Form1.resources
+C:\Users\mehme\Desktop\Order System\Order System\obj\Debug\Order_System.Properties.Resources.resources
+C:\Users\mehme\Desktop\Order System\Order System\obj\Debug\Order System.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Order System\Order System\obj\Debug\Order System.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Order System\Order System\obj\Debug\Order System.exe
+C:\Users\mehme\Desktop\Order System\Order System\obj\Debug\Order System.pdb
+E:\Order System\Order System\bin\Debug\Order System.exe.config
+E:\Order System\Order System\bin\Debug\Order System.exe
+E:\Order System\Order System\bin\Debug\Order System.pdb
+E:\Order System\Order System\obj\Debug\Order System.csprojAssemblyReference.cache
+E:\Order System\Order System\obj\Debug\Order_System.Form1.resources
+E:\Order System\Order System\obj\Debug\Order_System.Properties.Resources.resources
+E:\Order System\Order System\obj\Debug\Order System.csproj.GenerateResource.cache
+E:\Order System\Order System\obj\Debug\Order System.csproj.CoreCompileInputs.cache
+E:\Order System\Order System\obj\Debug\Order System.exe
+E:\Order System\Order System\obj\Debug\Order System.pdb
+C:\Users\Alizade\Desktop\Order System\Order System\bin\Debug\Order System.exe.config
+C:\Users\Alizade\Desktop\Order System\Order System\bin\Debug\Order System.exe
+C:\Users\Alizade\Desktop\Order System\Order System\bin\Debug\Order System.pdb
+C:\Users\Alizade\Desktop\Order System\Order System\obj\Debug\Order System.csprojAssemblyReference.cache
+C:\Users\Alizade\Desktop\Order System\Order System\obj\Debug\Order_System.Form1.resources
+C:\Users\Alizade\Desktop\Order System\Order System\obj\Debug\Order_System.Properties.Resources.resources
+C:\Users\Alizade\Desktop\Order System\Order System\obj\Debug\Order System.csproj.GenerateResource.cache
+C:\Users\Alizade\Desktop\Order System\Order System\obj\Debug\Order System.csproj.CoreCompileInputs.cache
+C:\Users\Alizade\Desktop\Order System\Order System\obj\Debug\Order System.exe
+C:\Users\Alizade\Desktop\Order System\Order System\obj\Debug\Order System.pdb
+C:\Users\Alizade\Desktop\Order System 2\Order System\bin\Debug\Order System.exe.config
+C:\Users\Alizade\Desktop\Order System 2\Order System\bin\Debug\Order System.exe
+C:\Users\Alizade\Desktop\Order System 2\Order System\bin\Debug\Order System.pdb
+C:\Users\Alizade\Desktop\Order System 2\Order System\obj\Debug\Order System.csprojAssemblyReference.cache
+C:\Users\Alizade\Desktop\Order System 2\Order System\obj\Debug\Order_System.Form1.resources
+C:\Users\Alizade\Desktop\Order System 2\Order System\obj\Debug\Order_System.Properties.Resources.resources
+C:\Users\Alizade\Desktop\Order System 2\Order System\obj\Debug\Order System.csproj.GenerateResource.cache
+C:\Users\Alizade\Desktop\Order System 2\Order System\obj\Debug\Order System.csproj.CoreCompileInputs.cache
+C:\Users\Alizade\Desktop\Order System 2\Order System\obj\Debug\Order System.exe
+C:\Users\Alizade\Desktop\Order System 2\Order System\obj\Debug\Order System.pdb
